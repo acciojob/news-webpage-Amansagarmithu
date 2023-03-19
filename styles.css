@@ -11,7 +11,7 @@ main{
 	display:flex;
 	height:600px;
 }
-.item1{
+.latest-news-section{
 	background-color:white;
 	height:170px;
 	padding:20px;
@@ -19,7 +19,7 @@ main{
 	margin-left:10px;
 	border-radius:20px;
 }
-.item2{
+.main-section{
 	background-color:white;
 	height:230px;
 	width:280px;
@@ -28,10 +28,10 @@ main{
 	margin-left:10px;
 	border-radius:20px;
 }
-h2{
+h3{
 	text-align:center;
 }
-.item3{
+.pictorial-news-section{
 	width:300px;
 	height:550px;
 	background-color:white;
